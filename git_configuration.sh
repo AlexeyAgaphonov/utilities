@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-git config --global alias.up "pull --rebase"
+git config --global alias.up "fetch"
 git config --global alias.pu "push"
 git config --global alias.cm "commit -m"
 git config --global alias.st "status"
